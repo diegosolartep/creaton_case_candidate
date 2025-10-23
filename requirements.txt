@@ -1,0 +1,6 @@
+# BEES Smart Sales - Minimal Requirements
+
+# Core Data Science (required by imports)
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0

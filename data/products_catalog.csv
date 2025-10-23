@@ -1,0 +1,24 @@
+sku,product_name,category,unit_price,margin,supplier,availability
+BEER001,Premium Lager 355ml,Beer,3.5,0.35,Supplier_4,Available
+BEER002,Craft IPA 473ml,Beer,5.0,0.4,Supplier_3,Available
+BEER003,Light Beer 355ml,Beer,3.0,0.3,Supplier_5,Out of Stock
+BEER004,Wheat Beer 473ml,Beer,4.5,0.38,Supplier_5,Limited
+BEER005,Pilsner 330ml,Beer,3.2,0.32,Supplier_4,Limited
+BEER006,Stout 355ml,Beer,4.8,0.42,Supplier_1,Out of Stock
+BEER007,Pale Ale 473ml,Beer,4.75,0.41,Supplier_2,Limited
+BEER008,Amber Ale 355ml,Beer,4.2,0.37,Supplier_4,Out of Stock
+SPIR001,Premium Vodka 750ml,Spirits,25.0,0.45,Supplier_4,Out of Stock
+SPIR002,Whiskey 750ml,Spirits,35.0,0.5,Supplier_2,Limited
+SPIR003,Rum Gold 750ml,Spirits,22.0,0.42,Supplier_5,Out of Stock
+SPIR004,Gin Premium 750ml,Spirits,28.0,0.46,Supplier_2,Limited
+SPIR005,Tequila Silver 750ml,Spirits,30.0,0.48,Supplier_4,Out of Stock
+SPIR006,Brandy 750ml,Spirits,32.0,0.47,Supplier_4,Out of Stock
+NAB001,Sparkling Water 500ml,NAB,1.5,0.4,Supplier_2,Available
+NAB002,Energy Drink 250ml,NAB,2.5,0.35,Supplier_1,Out of Stock
+NAB003,Juice Orange 1L,NAB,3.0,0.3,Supplier_5,Available
+NAB004,Soda Cola 355ml,NAB,1.8,0.25,Supplier_2,Limited
+NAB005,Water Mineral 500ml,NAB,1.2,0.2,Supplier_4,Limited
+WINE001,Red Wine Premium 750ml,Wine,15.0,0.5,Supplier_4,Out of Stock
+WINE002,White Wine 750ml,Wine,12.0,0.45,Supplier_5,Out of Stock
+WINE003,Sparkling Wine 750ml,Wine,18.0,0.55,Supplier_3,Limited
+WINE004,Rose Wine 750ml,Wine,10.0,0.4,Supplier_1,Out of Stock
